@@ -1,0 +1,22 @@
+Practica formativa S10 (Entrega obligatoria)
+
+
+
+Realizar el algoritmo utilizando arreglos de 2 dimensiones o matrices.
+Se desea almacenar los nombres y las edades de los alumnos de un curso. Los cursos tienen como máximo 20 alumnos. Realiza un programa que introduzca el nombre y la edad de cada alumno. El proceso de lectura de datos terminará cuando se introduzca como nombre un asterisco (*). Luego del ingreso de los datos se desea saber: 
+
+Cuántos alumnos hay en el curso
+
+Cuál es la mayor edad
+
+Los nombres de los alumnos que tienen esa mayor edad.
+
+
+Recordá
+
+
+El índice de los vectores y matrices comienzan siempre en cero.
+
+Tené en cuenta la cantidad de celdas dimensionadas para cada dimensión del vector y no “caerte” del mismo, es decir, no tratar de acceder a una celda que no exista!!
+
+Recordá el uso de constantes.
